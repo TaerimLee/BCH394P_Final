@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data / Files
+*.log
+*.fastq.gz
+*.fq.gz
+*fastqc.zip
+*fastqc.html
+*.bam
+*.bam.bai
+*.fa
+*.fa.amb
+*.fa.ann
+*.fa.bwt
+*.fa.pac
+*.fa.sa
+*.txt
+*.tsv
+*.csv
+*zip
+*.tar.gz
+*.ribo
+*.npy
+*.npz
+
+# OS
+.DS_Store
